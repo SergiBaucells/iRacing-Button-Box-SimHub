@@ -29,7 +29,7 @@ Turn your existing phone or tablet into a dedicated touchscreen button box for i
 3. Import the `.simhubdash` file into SimHub.
 4. In **Devices**, add a **Web device slot**, select the dashboard and enable landscape orientation.
 5. Open the dashboard URL or QR code on your mobile device connected to the same local network.
-6. Configure the 14 Quick Text Chat macros and remaining key bindings as described in the included Spanish PDF manual. Test the buttons in a safe practice or AI session before racing.
+6. Configure the 14 Quick Text Chat macros and remaining key bindings as described in the included PDF manual (available in English and Spanish). Test the buttons in a safe practice or AI session before racing.
 
 The dashboard is free of charge. iRacing and its subscription are not included. SimHub's free edition may limit refresh rates. Other aspect ratios may show black bars.
 
